@@ -1,0 +1,16 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+}
+.nav a {
+    text-decoration: none;
+    color: #fff;
+    border-bottom: 1px solid transparent;
+
+}
+.nav a:hover {
+    border-bottom: 1px solid #E2A300;
+    box-sizing: border-box;
+    transition: all 0.4s ease;
+}
