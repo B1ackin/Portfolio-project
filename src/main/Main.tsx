@@ -1,6 +1,7 @@
 import React from 'react';
 import style from './Main.module.css';
 import styleContainer from '../common/style/Container.module.css'
+import myPhoto from '../image/skillsAndPhoto.png';
 
 
 
@@ -18,7 +19,7 @@ function Main() {
                     </p>
                     <button className={style.btnDonwload}>DOWNLOAD CV</button>
                 </div>
-                <div className={style.photo}><img src={'/image/skillsAndPhoto.png'} /></div>
+                <div className={style.photo}><img src={myPhoto} /></div>
             </div>
         </div>
     );
