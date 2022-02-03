@@ -34,7 +34,7 @@
     justify-content: center;
     flex-wrap: wrap;
     padding-top: 30px;
-    background-image: url(../image/Ellips.png);
+    background-image: url(/src/image/Ellips.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 850px;

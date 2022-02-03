@@ -3,6 +3,7 @@ import style from './Main.module.css';
 import styleContainer from '../common/style/Container.module.css'
 
 
+
 function Main() {
     return (
         <div className={style.mainBlock}>
@@ -17,7 +18,7 @@ function Main() {
                     </p>
                     <button className={style.btnDonwload}>DOWNLOAD CV</button>
                 </div>
-                <div className={style.photo}><img src={"/image/skillsAndPhoto.png"} /></div>
+                <div className={style.photo}><img src={'/image/skillsAndPhoto.png'} /></div>
             </div>
         </div>
     );

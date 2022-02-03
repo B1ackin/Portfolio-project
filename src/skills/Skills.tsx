@@ -1,15 +1,16 @@
 import React from 'react';
 import style from './Skills.module.css';
 import Skill from "./skill/Skill";
+import reactImg from '../image/icon/React.png'
 
 const skillArray = [
-    {title: 'React', imageUrl: '/image/icon/react.png' },
+   {title: 'React', imageUrl: reactImg },
     {title: 'Redux', imageUrl: '/image/icon/redux.png' },
-    {title: 'TypeScript', imageUrl: '/image/icon/typescript.png' },
+    {title: 'TypeScript', imageUrl: './image/icon/typescript.png' },
     {title: 'JavaScript', imageUrl: '/image/icon/javascript.png' },
-    {title: 'HTML/CSS', imageUrl: '/image/icon/html-css.png' },
-    {title: 'GIT', imageUrl: '/image/icon/git.png' },
-    {title: 'REST API', imageUrl: '/image/icon/restapi.png' },
+    {title: 'HTML/CSS', imageUrl: './image/icon/html-css.png' },
+    {title: 'GIT', imageUrl: './image/icon/git.png' },
+    {title: 'REST API', imageUrl: './image/icon/restapi.png' },
 
 ]
 

@@ -44,7 +44,7 @@ function Slider(props: SliderPropsType) {
 
                         }
 
-                        {/*<img src={slide.image} alt="travel" className={style.image}*/}
+                        {/*<img src={slide.image1} alt="travel" className={style.image1}*/}
                     </div>
                     )
 

@@ -18,7 +18,7 @@ function Footer() {
                 <span>Contact:</span>
                 <span>Email: xx13.02@gmail.com</span>
                 <span>Linkedin: 1111</span>
-                <span>Call: +375 25 751 95 35</span>
+                <span>Call: +375 (25) 751 95 35</span>
             </div>
             <div className={style.copyright}>
                 <button className={style.btnDonwload}>DOWNLOAD CV</button>

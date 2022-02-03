@@ -1,5 +1,5 @@
 // type SliderDataType = {
-//     image: string,
+//     image1: string,
 //     title: string,
 //     text: string
 // }
