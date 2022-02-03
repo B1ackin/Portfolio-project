@@ -2,14 +2,7 @@
     height: 88vh;
     background-color: #2C2C2C;
 }
-.container {
-    width: 80%;
-    height: 100%;
-    margin: 0 auto;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
+
 
 .photo img {
     height: 553px;

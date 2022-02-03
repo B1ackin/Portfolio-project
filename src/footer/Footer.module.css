@@ -1,0 +1,57 @@
+.footer {
+    padding: 50px 0px;
+    background: #414141;
+
+}
+.footerContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 600px;
+    width: 90%;
+    margin: 0 auto
+}
+
+.footerNav {
+    display: flex;
+    flex-direction: column;
+
+}
+.footerNav a {
+    text-decoration: none;
+    font-size: 16px;
+    color: #fff;
+    padding: 5px 0px;
+}
+.footerContact {
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
+    color: #fff;
+
+}
+.footerContact span {
+    padding: 5px 0px;
+}
+
+.copyright {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 120px;
+}
+
+.btnDonwload {
+    font-family: 'Jost', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    border: none;
+    outline: none;
+    padding: 14px 40px;
+    background: linear-gradient(87.32deg, #E2A300 4.47%, #E29500 95.53%);
+    border-radius: 6px;
+}
+
+.btnDonwload:hover {
+    box-shadow: 0px 2px 13px rgba(226, 158, 0, 0.48);
+}

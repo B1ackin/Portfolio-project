@@ -1,0 +1,41 @@
+.about {
+    background: #414141;
+    padding-bottom: 100px;
+
+}
+.about_title {
+    font-size: 45px;
+    font-weight: 400;
+    margin-top: -95px;
+    color: #E4E4E4;
+
+}
+/*.about_title:after {*/
+/*    content: '';*/
+/*    display: inline-block;*/
+/*    vertical-align: top;*/
+/*    height: 2px;*/
+/*    width: 55%;*/
+/*    background: #E2A300;*/
+/*    margin-top: 5px;*/
+/*}*/
+.about_text {
+    background: #2C2C2C;
+    border-radius: 14px;
+    width: 400px;
+    height: 500px;
+    padding: 60px 60px;
+}
+
+.about_bg {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-top: 30px;
+    background-image: url(../image/Ellips.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 850px;
+}

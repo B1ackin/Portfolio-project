@@ -1,0 +1,19 @@
+.skillBlock {
+    background: #2A2A2A;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.47);
+    border-radius: 29px;
+    height: 200px;
+    width: 200px;
+    margin: 10px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.skillBlock:hover {
+    box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.47);
+}
+.title {
+    font-weight: 200;
+    font-size: 24px;
+}
