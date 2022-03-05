@@ -6,6 +6,7 @@ import myPhoto from '../image/skillsAndPhoto.png';
 
 
 function Main() {
+
     return (
         <div className={style.mainBlock}>
             <div className={styleContainer.container}>
@@ -18,6 +19,7 @@ function Main() {
                         Then contact me
                     </p>
                     <button className={style.btnDonwload}>DOWNLOAD CV</button>
+                    <a href="https://avatars.githubusercontent.com/u/9919?s=280&v=4" download='CV' target="_blank">2222</a>
                 </div>
                 <div className={style.photo}><img src={myPhoto} /></div>
             </div>
