@@ -1,5 +1,5 @@
 .mainBlock {
-    height: 88vh;
+    height: 100%;
     background-color: #2C2C2C;
 }
 
@@ -21,17 +21,22 @@
     color: #fff;
     line-height: 1.1;
 }
-
+.skills {
+    margin-bottom: 50px;
+    margin-top: 0px;
+}
+.description {
+    font-size: 22px;
+    margin-bottom: 0px;
+}
 .btnDonwload {
     font-family: 'Jost', sans-serif;
+    color: #2C2C2C;
+    text-decoration: none;
     font-weight: 500;
     font-size: 15px;
-    margin-top: 10px;
-    border: none;
-    outline: none;
     padding: 14px 40px;
     background: linear-gradient(87.32deg, #E2A300 4.47%, #E29500 95.53%);
-
     border-radius: 6px;
 }
 

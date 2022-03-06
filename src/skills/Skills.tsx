@@ -11,8 +11,6 @@ import apiImg from '../image/icon/restapi.png'
 
 
 
-
-
 const skillArray = [
    {title: 'React', imageUrl: reactImg },
     {title: 'Redux', imageUrl: reduxImg },
