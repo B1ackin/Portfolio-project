@@ -55,3 +55,9 @@
 .btnDonwload:hover {
     box-shadow: 0px 2px 13px rgba(226, 158, 0, 0.48);
 }
+
+@media (max-width: 1000px) {
+    .footerNav {
+        display: none;
+    }
+}

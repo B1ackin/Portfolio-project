@@ -46,5 +46,10 @@
     .about_bg {
         padding-bottom: 0px;
     }
-
+    .about_text {
+        padding: 30px 30px;
+    }
+    .about_title {
+        margin-top: -65px;
+    }
 }

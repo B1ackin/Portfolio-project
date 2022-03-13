@@ -131,15 +131,18 @@
     .textBlock {
         padding: 10px;
     }
-    .slider {
-        padding-bottom: 80px;
-        padding-top: 40px;
-    }
+    /*.slider {*/
+    /*    padding-bottom: 80px;*/
+    /*    padding-top: 40px;*/
+    /*}*/
     .leftArrow {
         left: 10px;
     }
     .rightArrow {
         right: 10px;
+    }
+    .slider {
+        min-height: 75vh;
     }
 }
 
