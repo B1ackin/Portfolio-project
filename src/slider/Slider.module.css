@@ -42,7 +42,7 @@
 
 .slider {
 
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -108,3 +108,38 @@
     display: flex;
 
 }
+
+
+@media (max-width: 1000px) {
+    .oneSlide {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 80%;
+    }
+    .slideActive {
+        width: 80%;
+        display: flex;
+        justify-content: center;
+        margin: 0 auto;
+    }
+    .image {
+        width: 100%;
+        height: 100%;
+
+    }
+    .textBlock {
+        padding: 10px;
+    }
+    .slider {
+        padding-bottom: 80px;
+        padding-top: 40px;
+    }
+    .leftArrow {
+        left: 10px;
+    }
+    .rightArrow {
+        right: 10px;
+    }
+}
+

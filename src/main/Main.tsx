@@ -14,7 +14,6 @@ function Main() {
                     <h1>I’M LEONID KRUCHENOK</h1>
                     <p className={style.description}>FRONT-END DEVELOPER</p>
                     <p className={style.skills}>React, Redux, TypeScript, JavaScript</p>
-                    {/*<button className={style.btnDonwload}>DOWNLOAD CV</button>*/}
                     <a className={style.btnDonwload} href="#" download='CV' target="_blank">DOWNLOAD CV</a>
                 </div>
                 <div className={style.photo}><img src={myPhoto} /></div>

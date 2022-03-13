@@ -11,5 +11,6 @@
 @media (max-width: 1000px) {
     .container {
         flex-wrap: wrap;
+        width: 90%;
     }
 }
