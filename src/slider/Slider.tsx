@@ -30,7 +30,7 @@ function Slider(props: SliderPropsType) {
     }
 
     return (
-        <div className={style.bg}><div className={style.title}>PORTFOLIO</div>
+        <div className={style.bg}><div className={style.title}><span>PORTFOLIO</span></div>
         <div className={style.slider}>
             <FaArrowCircleLeft className={style.leftArrow}  onClick={prevSlide}/>
             <FaArrowCircleRight className={style.rightArrow} onClick={nextSlide} />

@@ -143,6 +143,14 @@
     }
     .slider {
         min-height: 75vh;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .title {
+        padding-top: 50px;
+    }
+    .title span {
+        border-bottom: 2px solid #E2A300;
     }
 }
 

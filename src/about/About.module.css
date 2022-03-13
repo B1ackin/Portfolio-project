@@ -45,6 +45,7 @@
 @media (max-width: 1000px) {
     .about_bg {
         padding-bottom: 0px;
+        padding-top: 40px;
     }
     .about_text {
         padding: 30px 30px;
@@ -52,4 +53,9 @@
     .about_title {
         margin-top: -65px;
     }
+    .about_title span {
+        border-bottom: 2px solid #E2A300;
+    }
+
+
 }
