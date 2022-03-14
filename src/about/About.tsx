@@ -5,7 +5,7 @@ import style from './About.module.css';
 function About() {
 
     return (
-        <div className={style.about}>
+        <div id={'about'} className={style.about}>
             <div className={style.about_bg}>
             <div className={style.about_text}>
                 <h3 className={style.about_title}><span>ABOUT ME</span> </h3>

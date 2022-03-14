@@ -30,6 +30,10 @@
     color: #fff;
 
 }
+.footerContact a {
+    text-decoration: none;
+    color: #fff;
+}
 .footerContact span {
     padding: 5px 0px;
 }

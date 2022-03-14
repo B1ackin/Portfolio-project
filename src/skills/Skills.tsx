@@ -25,7 +25,7 @@ const skillArray = [
 
 function Skills() {
     return (
-        <div className={style.skillsBlock}>
+        <div id={'skills'} className={style.skillsBlock}>
             <div className={style.container}>
 
                 {skillArray.map((skill) =>(
