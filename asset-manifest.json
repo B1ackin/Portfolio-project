@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/Portfolio-project/static/css/main.6646fdca.css",
-    "main.js": "/Portfolio-project/static/js/main.9b2dafd3.js",
+    "main.css": "/Portfolio-project/static/css/main.379b15bc.css",
+    "main.js": "/Portfolio-project/static/js/main.911c20b3.js",
     "static/js/787.b22bd7b1.chunk.js": "/Portfolio-project/static/js/787.b22bd7b1.chunk.js",
     "static/media/skillsAndPhoto.png": "/Portfolio-project/static/media/skillsAndPhoto.99c8e33f55421d95f6c8.png",
-    "static/media/cv.pdf": "/Portfolio-project/static/media/cv.04176ba2cb0919fa393c.pdf",
+    "static/media/CV.pdf": "/Portfolio-project/static/media/CV.2ec7f0051d2994e7f864.pdf",
     "static/media/Ellips.png": "/Portfolio-project/static/media/Ellips.cec59ff250676b96d75c.png",
+    "static/media/social.png": "/Portfolio-project/static/media/social.8cff6c160f6c385cb16e.png",
+    "static/media/Card.png": "/Portfolio-project/static/media/Card.f6c9c9117e79ad06adbc.png",
+    "static/media/todolists.png": "/Portfolio-project/static/media/todolists.7c67b852277455d8bf6d.png",
+    "static/media/password.png": "/Portfolio-project/static/media/password.570164024e3f7e0bd3b2.png",
     "static/media/React.png": "/Portfolio-project/static/media/React.d49f34443f135fa5ddba.png",
     "index.html": "/Portfolio-project/index.html",
-    "main.6646fdca.css.map": "/Portfolio-project/static/css/main.6646fdca.css.map",
-    "main.9b2dafd3.js.map": "/Portfolio-project/static/js/main.9b2dafd3.js.map",
+    "main.379b15bc.css.map": "/Portfolio-project/static/css/main.379b15bc.css.map",
+    "main.911c20b3.js.map": "/Portfolio-project/static/js/main.911c20b3.js.map",
     "787.b22bd7b1.chunk.js.map": "/Portfolio-project/static/js/787.b22bd7b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6646fdca.css",
-    "static/js/main.9b2dafd3.js"
+    "static/css/main.379b15bc.css",
+    "static/js/main.911c20b3.js"
   ]
 }
